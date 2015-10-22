@@ -1,5 +1,5 @@
-# ReproducibleDataAnalysis-PeerAssessment2
-Analysis done from the NOAA Storm Database regarding most harmful storm events and greattest economic consequences to human populations. 
+# Reproducible DataAnalysis Peer Assessment 2
+Analysis done from the NOAA Storm Database regarding most harmful storm events and greatest economic consequences to human populations. 
 
 ## Introduction
 
